@@ -1,0 +1,17 @@
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\bin\Debug\net8.0\LoanManagementSystem.Service.deps.json
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\bin\Debug\net8.0\LoanManagementSystem.Service.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\bin\Debug\net8.0\LoanManagementSystem.Service.pdb
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\bin\Debug\net8.0\LoanManagementSystem.Common.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\bin\Debug\net8.0\LoanManagementSystem.Data.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\bin\Debug\net8.0\LoanManagementSystem.Data.pdb
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\bin\Debug\net8.0\LoanManagementSystem.Common.pdb
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.csproj.AssemblyReference.cache
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.AssemblyInfoInputs.cache
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.AssemblyInfo.cs
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.csproj.CopyComplete
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\refint\LoanManagementSystem.Service.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\LoanManagementSystem.Service.pdb
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Service\obj\Debug\net8.0\ref\LoanManagementSystem.Service.dll

@@ -1,0 +1,11 @@
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\bin\Debug\net8.0\LoanManagementSystem.Common.deps.json
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\bin\Debug\net8.0\LoanManagementSystem.Common.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\bin\Debug\net8.0\LoanManagementSystem.Common.pdb
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\LoanManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\LoanManagementSystem.Common.AssemblyInfoInputs.cache
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\LoanManagementSystem.Common.AssemblyInfo.cs
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\LoanManagementSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\LoanManagementSystem.Common.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\refint\LoanManagementSystem.Common.dll
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\LoanManagementSystem.Common.pdb
+C:\Users\sivag\source\repos\Study_Learn\LMS\LoanManagementSystem.Common\obj\Debug\net8.0\ref\LoanManagementSystem.Common.dll
