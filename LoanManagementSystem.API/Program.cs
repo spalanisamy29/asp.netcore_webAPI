@@ -22,11 +22,12 @@ builder.Services.AddControllers();
 // Swagger 
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 app.MapControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+
 
 if (app.Environment.IsDevelopment())
 {
