@@ -17,6 +17,7 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 
 // Add Controllers (important!)
+
 builder.Services.AddControllers();
 // Swagger 
 builder.Services.AddSwaggerGen();
