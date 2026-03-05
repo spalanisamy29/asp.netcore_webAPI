@@ -7,9 +7,9 @@ namespace LoanManagementSystem.Data.Repositories.Interface
    
     public class UserRepository : IUserRepository
     {
-        private readonly LMSDbContext _context;
+        private readonly AppDbContext _context;
 
-        public UserRepository(LMSDbContext context)
+        public UserRepository(AppDbContext context)
         {
             _context = context;
         }

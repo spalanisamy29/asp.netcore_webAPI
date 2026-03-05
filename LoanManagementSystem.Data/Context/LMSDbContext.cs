@@ -3,9 +3,9 @@ using LoanManagementSystem.Data.Entities;
 
 namespace LoanManagementSystem.Data.Context
 {
-    public class LMSDbContext : DbContext
+    public class AppDbContext : DbContext
     {
-        public LMSDbContext(DbContextOptions<LMSDbContext> options)
+        public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         {
         }
@@ -15,7 +15,7 @@ namespace LoanManagementSystem.Data.Context
             base.OnModelCreating(modelBuilder);
 
             // Automatically apply all IEntityTypeConfiguration classes
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(LMSDbContext).Assembly);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
         }
     }
 }

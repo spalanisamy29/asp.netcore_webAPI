@@ -16,10 +16,10 @@ namespace LoanManagementSystem.Service.Impl
     public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository;
-        private readonly LMSDbContext _context;
+        private readonly AppDbContext _context;
 
        
-        public UserService(LMSDbContext context, IUserRepository userRepository)
+        public UserService(AppDbContext context, IUserRepository userRepository)
         {
             _userRepository = userRepository;
             _context = context;
