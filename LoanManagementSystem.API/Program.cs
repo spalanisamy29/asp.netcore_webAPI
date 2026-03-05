@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Serilog;
 using Microsoft.AspNetCore.RateLimiting;
 
-
+//testing 
 var builder = WebApplication.CreateBuilder(args);
 
 // Register DbContext
@@ -24,12 +24,21 @@ builder.Services.AddSwaggerGen();
 
 
 var app = builder.Build();
+app.MapControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-    app.MapControllers();
+    //app.MapControllers();
+}
+else
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+    //app.MapControllers();
 }
  //api start here..
 try
