@@ -6,6 +6,7 @@ using LoanManagementSystem.Service.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 using Microsoft.AspNetCore.RateLimiting;
+using Microsoft.OpenApi.Models;
 
 //testing 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,7 +21,16 @@ builder.Services.AddScoped<IUserService, UserService>();
 
 builder.Services.AddControllers();
 // Swagger 
-builder.Services.AddSwaggerGen();
+//builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "My Finance API",   // 👈 Your custom header
+        Version = "v1",
+        Description = "Finance Management System APIs"
+    });
+});
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
